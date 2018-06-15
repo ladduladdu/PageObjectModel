@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28807" started-at="2018-03-06T17:29:54Z" finished-at="2018-03-06T17:30:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28807" started-at="2018-03-06T17:29:54Z" finished-at="2018-03-06T17:30:23Z">
+      <class name="com.OrangeHrm.tests.AdminLoginTest1">
+        <test-method status="PASS" signature="AdminLoginTest()[pri:0, instance:com.OrangeHrm.tests.AdminLoginTest1@2344fc66]" name="AdminLoginTest" duration-ms="28778" started-at="2018-03-06T22:59:55Z" finished-at="2018-03-06T23:00:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminLoginTest -->
+      </class> <!-- com.OrangeHrm.tests.AdminLoginTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
